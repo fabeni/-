@@ -1,0 +1,25 @@
+body {
+    background-color: #000000;
+
+}
+
+.botao {
+  color: #adf182;
+  border: 2px solid #adf182;
+  text-decoration: none;
+  padding: 1% 3%;
+  box-shadow: 0 5px 10px 3px #618d46;
+  cursor: help;
+  font-size: 2em;
+  margin: 10px 20px;
+}  
+.botao:hover{
+  color: #e20303;
+  border: 2px solid #e20303;
+  box-shadow: 0 5px 10px 3px #e20303;
+}
+.imagem{
+  padding: 1% -10%;
+  
+}
+
